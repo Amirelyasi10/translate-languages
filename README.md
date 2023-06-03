@@ -5,8 +5,8 @@ Easy to use and beautiful texts
 How to use it:
 
 1: Fist enter the language you want to write in 
-2: Then write the language you want your text to be rtanslate info
-3: And finally enter thr desored text
+\2: Then write the language you want your text to be rtanslate info
+\3: And finally enter thr desored text
 
 Tip:
 
