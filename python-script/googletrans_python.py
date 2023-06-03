@@ -13,16 +13,6 @@ with open(r"C:\Users\AMIR\python\google-translate\supported_languages.txt", "w",
     for language in LANGUAGES:
         support.write(f"{language} : {LANGUAGES[language]}\n")
 
-def resharpe_text(text):
-    """
-
-    Args:
-        text (str): _description_
-    """
-    resharped_text = arabic_reshaper.reshape(text)
-    converted = get_display(resharped_text)
-    
-
 def translate_text(src, dest, text):
     """
     Translate the text
